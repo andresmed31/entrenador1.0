@@ -1,0 +1,28 @@
+header{
+    height: 90px;
+    background-color: #128c7e;
+}
+header a{
+    color:azure;
+    font-size: 30px;
+    text-decoration: none;
+}
+header a:hover{
+    color:azure;
+}
+.alin{
+    display: flex;
+    align-items: center;
+}
+h1{
+    margin-top: 50px;
+    line-height: 2em;
+    text-align: center;
+}
+[top12="espacio1"] {
+    margin-top: 50px;
+}
+div span{
+    background-color: rgba(35, 79, 136, 0.74);
+    margin: 3em;
+}
