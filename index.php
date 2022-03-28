@@ -19,12 +19,10 @@
     }
   }
 ?>
+
 <?php require 'partials/head.php'; ?>
-<div class="container">
-  <div class="row">
-    <?php require 'partials/header.php'; ?>
-  </div>
-</div>
+<?php require 'partials/header.php'; ?>
+
 <div class="container">
   <div class="row">
     <div class="col-4 alin">
